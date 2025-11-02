@@ -1,7 +1,8 @@
 🧠 Developing AI Suggestions for Times and Testing Conflicts.
 
 
-📌 Overview
+📌 Overview:
+
 This project aims to develop an AI-powered smart scheduler that intelligently manages time allocation and detects scheduling conflicts.
 The system allows users to add tasks, detect overlaps automatically, and receive AI-based time suggestions to optimize daily planning and productivity.
 
